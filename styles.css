@@ -1,0 +1,65 @@
+/* <!DOCTYPE html>
+<html lang="en">   
+    <head>
+        
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head> */
+
+
+
+    h1{
+        color: rgb(4, 46, 46);
+    }
+
+    .ul{
+        color: coral;
+
+    }
+
+
+    
+    h1 {
+        font-style: italic;
+        background-color: blue;
+    }
+
+    h2 {
+        font-style: italic;
+        background-color: blue;
+    }
+
+    .red-center.red-text{
+        font-weight: 400;
+        color: brown;
+    }
+
+    p{
+        color: blueviolet;
+    }
+
+    .parent-ingred .ingredients {
+        font-weight: 900;
+        border-color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        color: crimson;
+    
+    }
+
+   .Mac-N-Cheese.red-text {
+        color: blueviolet;
+        font-size: x-large;
+        font-family: 'Times New Roman', Times, serif;
+   }
+
+
+   #steps {
+    background-color: brown;
+    }
+
+   .louche-field .makes {
+        font-family: monospace;
+        margin: 0ex;
+        color: chocolate;
+   }
+   
