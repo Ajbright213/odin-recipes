@@ -12,9 +12,9 @@
         color: rgb(4, 46, 46);
     }
 
-    .ul{
-        color: coral;
-
+    .ul, .ingredients, h3{
+        column-gap: 0vh;
+        background-color: blanchedalmond;
     }
 
 
